@@ -4,5 +4,7 @@ Git Lab 2
 
 Описание: Комплексная работа по Git.
 
+HEAD
 Draft documentation
 Incorrect project description
+parent of 1eed0ed (Добавлена документация)
